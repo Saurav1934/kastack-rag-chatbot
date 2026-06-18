@@ -1,3 +1,170 @@
+<img width="1918" height="848" alt="image" src="https://github.com/user-attachments/assets/997bc165-1527-4c00-a03e-53a242145fea" /># Instructions to Run
+
+## 1. Clone Repository
+
+```bash
+git clone https://github.com/Saurav1934/kastack-rag-chatbot.git
+cd kastack-rag
+```
+
+---
+
+## 2. Create Virtual Environment
+
+### Windows
+
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+```
+
+### Linux / macOS
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+```
+
+---
+
+## 3. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## 4. Parse Conversations
+
+Convert the CSV dataset into a chronological message stream.
+
+```bash
+python pipeline/parse.py
+```
+
+Output:
+
+```text
+storage/messages.json
+```
+
+---
+
+## 5. Generate Topic & Message Checkpoints
+
+Build topic checkpoints and 100-message checkpoints.
+
+```bash
+python pipeline/checkpoints.py --mode both
+```
+
+Outputs:
+
+```text
+storage/topic_checkpoints.json
+storage/message_checkpoints.json
+```
+
+---
+
+## 6. Build FAISS Indexes
+
+Generate vector indexes used for retrieval.
+
+```bash
+python pipeline/retrieval.py
+```
+
+Outputs:
+
+```text
+storage/faiss_index/
+```
+
+---
+
+## 7. Generate Persona
+
+Extract user habits, personal facts, personality traits, and communication style.
+
+```bash
+python pipeline/persona.py
+```
+
+Output:
+
+```text
+storage/persona.json
+```
+
+---
+
+## 8. Launch Chatbot
+
+Run the Streamlit application.
+
+```bash
+streamlit run chatbot/app.py
+```
+
+The application will open automatically in your browser.
+
+Default URL:
+
+```text
+http://localhost:8501
+```
+
+---
+
+# Example Questions
+
+Try the following:
+
+```text
+What kind of person is this user?
+
+What are their habits?
+
+How do they communicate?
+
+What did they say about Portland?
+
+What did they discuss regarding classic cars?
+
+Summarize conversations related to education.
+```
+
+---
+
+# Generated Artifacts
+
+After execution, the following files should exist:
+
+```text
+storage/
+├── messages.json
+├── topic_checkpoints.json
+├── message_checkpoints.json
+├── persona.json
+└── faiss_index/
+```
+
+---
+
+# Live Demo
+
+Streamlit URL:
+
+```text
+https://kastack-rag-chatbott.streamlit.app/
+```
+
+---
+
+
+
 ## Assignment Requirement Mapping
 
 ### Topic Checkpoints
@@ -133,6 +300,7 @@ The system is designed to operate without requiring external LLM APIs.
 Optional API integrations can be used for improved summarization quality, but the core RAG pipeline remains functional using local models and extractive techniques.
 
 ---
+
 
 ## Future Improvements
 
