@@ -1,0 +1,14 @@
+[
+  {
+    "checkpoint_id": 1,
+    "start_message": 1,
+    "end_message": 100,
+    "summary": "User 1: Hi! How are you?\nUser 2: Good, thanks for asking! How about yourself?\n...\nUser 1: What's your favorite book?\nUser 2: I have a few favorites, but one of my favorites is The Name of the Wind by Patrick Rothfuss."
+  },
+  {
+    "checkpoint_id": 2,
+    "start_message": 101,
+    "end_message": 200,
+    "summary": "User 1: I've heard good things about that book! I'll have to check it out.\nUser 2: It's a great book! I hope you enjoy it.\n...\nUser 1: I love to dance salsa.\nUser 2: That's awesome! I've always wanted to learn how to dance salsa."
+  }
+]

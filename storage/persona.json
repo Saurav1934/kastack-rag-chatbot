@@ -1,0 +1,644 @@
+{
+  "target_speaker": "User 1",
+  "habits": [
+    {
+      "label": "late sleeper",
+      "evidence": [
+        {
+          "message_id": 2666,
+          "conversation_id": 154,
+          "text": "Hi! I love horror novels. I can stay up late reading them and it can mess up my sleep schedule."
+        },
+        {
+          "message_id": 14462,
+          "conversation_id": 825,
+          "text": "That is really impressive! I wish I had that kind of discipline. I am usually up late and sleep in until noon."
+        },
+        {
+          "message_id": 18007,
+          "conversation_id": 1031,
+          "text": "Thanks! I just had to stay up late a lot and drink a lot of juice and yogurt."
+        }
+      ],
+      "count": 3
+    },
+    {
+      "label": "early riser",
+      "evidence": [
+        {
+          "message_id": 9315,
+          "conversation_id": 528,
+          "text": "I'm actually a morning person! I usually wake up early and go for a run before work."
+        },
+        {
+          "message_id": 12318,
+          "conversation_id": 701,
+          "text": "Yeah, we're going to go early so we can beat the heat. I'm not a morning person either, but I love hiking too much to miss it!"
+        },
+        {
+          "message_id": 12862,
+          "conversation_id": 735,
+          "text": "I can relate! I'm not a morning person either."
+        }
+      ],
+      "count": 3
+    },
+    {
+      "label": "coffee drinker",
+      "evidence": [
+        {
+          "message_id": 534,
+          "conversation_id": 30,
+          "text": "Not so bad. Just got back from a show with my band. We played in a coffee shop."
+        },
+        {
+          "message_id": 706,
+          "conversation_id": 40,
+          "text": "That's really cool! How long have you been working at the coffee shop?"
+        },
+        {
+          "message_id": 1422,
+          "conversation_id": 81,
+          "text": "That's awesome! I love woodworking too. I built a coffee table last year."
+        }
+      ],
+      "count": 3
+    },
+    {
+      "label": "tea drinker",
+      "evidence": [
+        {
+          "message_id": 1762,
+          "conversation_id": 101,
+          "text": "So, what's your favorite type of tea?"
+        },
+        {
+          "message_id": 2268,
+          "conversation_id": 133,
+          "text": "I like chai tea too! It's so delicious."
+        },
+        {
+          "message_id": 6376,
+          "conversation_id": 367,
+          "text": "Me too! I love to curl up with a good book and a cup of tea."
+        }
+      ],
+      "count": 3
+    },
+    {
+      "label": "runner",
+      "evidence": [
+        {
+          "message_id": 340,
+          "conversation_id": 19,
+          "text": "Yeah, it's great. He loves playing fetch and running around. It's a great way to get some energy out."
+        },
+        {
+          "message_id": 1739,
+          "conversation_id": 100,
+          "text": "That's great! I love running as a way to de-stress."
+        },
+        {
+          "message_id": 1741,
+          "conversation_id": 100,
+          "text": "It is! I've been running for years and I love it."
+        }
+      ],
+      "count": 3
+    },
+    {
+      "label": "gym enthusiast",
+      "evidence": [
+        {
+          "message_id": 1150,
+          "conversation_id": 67,
+          "text": "I'm sure you could do it if you put your mind to it! I've been working out in my home gym to keep fit, and I'm really excited to start cooking healthy meals."
+        },
+        {
+          "message_id": 1272,
+          "conversation_id": 73,
+          "text": "You should! It's a lot of fun and a good workout."
+        },
+        {
+          "message_id": 2359,
+          "conversation_id": 137,
+          "text": "I like to run, lift weights, and do yoga."
+        }
+      ],
+      "count": 3
+    },
+    {
+      "label": "reader",
+      "evidence": [
+        {
+          "message_id": 445,
+          "conversation_id": 25,
+          "text": "That sounds like a lot of fun. I love to go hiking too. I'm not very good at camping, but I enjoy the outdoors. I also love to read. What are your favorite books?"
+        },
+        {
+          "message_id": 472,
+          "conversation_id": 26,
+          "text": "Me too. I love to read a good mystery novel."
+        },
+        {
+          "message_id": 716,
+          "conversation_id": 40,
+          "text": "Me too! I'm currently reading a book called \"The Great Gatsby\" by F. Scott Fitzgerald."
+        }
+      ],
+      "count": 3
+    },
+    {
+      "label": "home cook",
+      "evidence": [
+        {
+          "message_id": 4584,
+          "conversation_id": 267,
+          "text": "Oh good to know. I'll have to find a good recipe."
+        },
+        {
+          "message_id": 5571,
+          "conversation_id": 322,
+          "text": "What's your favorite recipe?"
+        },
+        {
+          "message_id": 5573,
+          "conversation_id": 322,
+          "text": "I love lasagna! I'd love to try your recipe sometime."
+        }
+      ],
+      "count": 3
+    },
+    {
+      "label": "vegetarian",
+      "evidence": [
+        {
+          "message_id": 7626,
+          "conversation_id": 434,
+          "text": "Thanks, I hope so! I'm a vegetarian, but I do eat fish, especially sushi. Do you have any dietary restrictions?"
+        },
+        {
+          "message_id": 7769,
+          "conversation_id": 440,
+          "text": "That's awesome! I've been thinking about going vegetarian myself."
+        },
+        {
+          "message_id": 7952,
+          "conversation_id": 452,
+          "text": "I am not vegan, but I do like to eat vegetarian meals sometimes. I love vegetables."
+        }
+      ],
+      "count": 3
+    },
+    {
+      "label": "meditation practitioner",
+      "evidence": [
+        {
+          "message_id": 6287,
+          "conversation_id": 363,
+          "text": "I've been trying to go for walks more often, but it can be hard to find the time.  I've also been trying to meditate, but I'm not very good at it yet!"
+        },
+        {
+          "message_id": 12551,
+          "conversation_id": 716,
+          "text": "I love to bake, and I also enjoy reading and writing. I'm trying to get more into yoga and meditation, but it's a work in progress."
+        },
+        {
+          "message_id": 22354,
+          "conversation_id": 1277,
+          "text": "I like to rollerblade, go to the movies, and I meditate every morning."
+        }
+      ],
+      "count": 3
+    }
+  ],
+  "personal_facts": [
+    {
+      "label": "in a relationship",
+      "evidence": [
+        {
+          "message_id": 704,
+          "conversation_id": 40,
+          "text": "Hi! I'm heading home after a long run to see my girlfriend and eat some tacos. What are you up to today?"
+        },
+        {
+          "message_id": 895,
+          "conversation_id": 51,
+          "text": "I work for a small family owned restaurant.  I have a girlfriend of 7 years, and we like to go on walks together."
+        },
+        {
+          "message_id": 1466,
+          "conversation_id": 84,
+          "text": "That's great. I love to exercise too. I try to eat healthy foods and exercise regularly because I want to get in better shape for my girlfriend and baby."
+        }
+      ],
+      "count": 3
+    },
+    {
+      "label": "married",
+      "evidence": [
+        {
+          "message_id": 1037,
+          "conversation_id": 60,
+          "text": "I'm great! I'm a 30 year old female, I've been working the same job for two years, and I have a wife who is legally deaf. What about you?"
+        },
+        {
+          "message_id": 1059,
+          "conversation_id": 61,
+          "text": "I love business. I work as a wedding planner and it's so much fun helping people create their dream weddings."
+        },
+        {
+          "message_id": 1962,
+          "conversation_id": 114,
+          "text": "I love to go to comic cons and dress up with my husband."
+        }
+      ],
+      "count": 3
+    },
+    {
+      "label": "has children",
+      "evidence": [
+        {
+          "message_id": 2178,
+          "conversation_id": 127,
+          "text": "I'm from New York City, I live in a nice area with my son. I'm a YouTuber who creates content for my audience. I believe in a progressive tax system. I love eating at the local sports bar with my son after his games."
+        },
+        {
+          "message_id": 3137,
+          "conversation_id": 184,
+          "text": "That's fun! I like to dress up for art events and show my daughter how to have fun with fashion. What kind of work do you do?"
+        },
+        {
+          "message_id": 3141,
+          "conversation_id": 184,
+          "text": "I like to spend time with my daughter, design jewelry, and go to art events. I'm looking forward to my daughter's first art show next month. What are you looking forward to?"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "label": "pursuing education",
+      "evidence": [
+        {
+          "message_id": 17,
+          "conversation_id": 1,
+          "text": "I'm doing great! I'm a fulltime student studying radiology at a local college and I also play in a band that my parents don't know about."
+        },
+        {
+          "message_id": 130,
+          "conversation_id": 8,
+          "text": "I'm studying computer science. I'm hoping to get a job as a programmer after I graduate."
+        },
+        {
+          "message_id": 625,
+          "conversation_id": 35,
+          "text": "I'm doing well, thanks for asking! I'm a student, and I'm trying to stay positive and focus on my studies. How about you?"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "label": "working professional",
+      "evidence": [
+        {
+          "message_id": 55,
+          "conversation_id": 3,
+          "text": "I'm a children's librarian. I love my job!"
+        },
+        {
+          "message_id": 57,
+          "conversation_id": 3,
+          "text": "Yes! I love reading to kids. It's the best part of my job!"
+        },
+        {
+          "message_id": 1489,
+          "conversation_id": 86,
+          "text": "Me too! I just graduated college with my bachelor's in education and I'm going to be a teacher. I'm excited to start my new career."
+        }
+      ],
+      "count": 3
+    },
+    {
+      "label": "recently moved or relocating",
+      "evidence": [
+        {
+          "message_id": 3,
+          "conversation_id": 0,
+          "text": "I'm doing pretty well.  I'm excited to be moving to a new city soon!"
+        },
+        {
+          "message_id": 5,
+          "conversation_id": 0,
+          "text": "I'm moving to Portland, Oregon.  I'm going to be pursuing my culinary dreams there."
+        },
+        {
+          "message_id": 65,
+          "conversation_id": 4,
+          "text": "I can understand that. Moving to a new place can be daunting, but it can also be a lot of fun. I am sure you will make some great new friends and have a lot of new experiences."
+        }
+      ],
+      "count": 3
+    },
+    {
+      "label": "interested in culinary career",
+      "evidence": [
+        {
+          "message_id": 5,
+          "conversation_id": 0,
+          "text": "I'm moving to Portland, Oregon.  I'm going to be pursuing my culinary dreams there."
+        },
+        {
+          "message_id": 507,
+          "conversation_id": 28,
+          "text": "I wish I could have a chef cook for me too! I'm a Japanese billionaire who loves the wind in my hair."
+        },
+        {
+          "message_id": 845,
+          "conversation_id": 48,
+          "text": "Hi there! I'm a food blogger and I love to share my favorite restaurant finds with my readers. What are your favorite restaurants?"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "label": "lives in or mentions Portland",
+      "evidence": [
+        {
+          "message_id": 5,
+          "conversation_id": 0,
+          "text": "I'm moving to Portland, Oregon.  I'm going to be pursuing my culinary dreams there."
+        },
+        {
+          "message_id": 9,
+          "conversation_id": 0,
+          "text": "That's great.  Do you have any favorite places to visit in Portland?"
+        },
+        {
+          "message_id": 21883,
+          "conversation_id": 1253,
+          "text": "Portland, Oregon.  I've always wanted to visit the Grand Canyon."
+        }
+      ],
+      "count": 3
+    },
+    {
+      "label": "lives in or mentions California",
+      "evidence": [
+        {
+          "message_id": 824,
+          "conversation_id": 46,
+          "text": "California seems like a cool place, I've always wanted to go. I love the music scene there, especially the punk scene."
+        },
+        {
+          "message_id": 1844,
+          "conversation_id": 106,
+          "text": "I grew up in Colorado, but I live in California now."
+        },
+        {
+          "message_id": 5793,
+          "conversation_id": 334,
+          "text": "I love going to the beach. I'm from California, so I grew up spending a lot of time there."
+        }
+      ],
+      "count": 3
+    },
+    {
+      "label": "lives in or mentions New York",
+      "evidence": [
+        {
+          "message_id": 822,
+          "conversation_id": 46,
+          "text": "I have been to the one in Chicago and the one in New York City. I have a friend who went to one in Russia."
+        },
+        {
+          "message_id": 2178,
+          "conversation_id": 127,
+          "text": "I'm from New York City, I live in a nice area with my son. I'm a YouTuber who creates content for my audience. I believe in a progressive tax system. I love eating at the local sports bar with my son after his games."
+        },
+        {
+          "message_id": 3277,
+          "conversation_id": 192,
+          "text": "Wow that's really impressive. I just moved to New York and I don't have any friends here yet."
+        }
+      ],
+      "count": 3
+    }
+  ],
+  "personality_traits": [
+    {
+      "label": "enthusiastic",
+      "evidence": [
+        {
+          "message_id": 3,
+          "conversation_id": 0,
+          "text": "I'm doing pretty well.  I'm excited to be moving to a new city soon!"
+        },
+        {
+          "message_id": 11,
+          "conversation_id": 0,
+          "text": "That sounds amazing!  I've never been to Powell's Books before.  I'm definitely going to have to check it out."
+        },
+        {
+          "message_id": 13,
+          "conversation_id": 0,
+          "text": "Thanks for the recommendation!  I'm sure I'll love it."
+        }
+      ],
+      "count": 3
+    },
+    {
+      "label": "humorous",
+      "evidence": [
+        {
+          "message_id": 97,
+          "conversation_id": 6,
+          "text": "That's cool! I'm a barista. I love books, and I like to watch funny and lighthearted shows to relax."
+        },
+        {
+          "message_id": 722,
+          "conversation_id": 40,
+          "text": "Me too! It's so funny and heartwarming."
+        },
+        {
+          "message_id": 940,
+          "conversation_id": 54,
+          "text": "I love to play badminton and watch funny shows. I'm also a student in social sciences and I love to draw comics."
+        }
+      ],
+      "count": 3
+    },
+    {
+      "label": "optimistic",
+      "evidence": [
+        {
+          "message_id": 69,
+          "conversation_id": 4,
+          "text": "So, what are you looking forward to the most about your new job?"
+        },
+        {
+          "message_id": 625,
+          "conversation_id": 35,
+          "text": "I'm doing well, thanks for asking! I'm a student, and I'm trying to stay positive and focus on my studies. How about you?"
+        },
+        {
+          "message_id": 644,
+          "conversation_id": 36,
+          "text": "I'm a professor, and I'm really looking forward to getting started."
+        }
+      ],
+      "count": 3
+    },
+    {
+      "label": "ambitious",
+      "evidence": [
+        {
+          "message_id": 5,
+          "conversation_id": 0,
+          "text": "I'm moving to Portland, Oregon.  I'm going to be pursuing my culinary dreams there."
+        },
+        {
+          "message_id": 575,
+          "conversation_id": 32,
+          "text": "I'm an aspiring male model."
+        },
+        {
+          "message_id": 1059,
+          "conversation_id": 61,
+          "text": "I love business. I work as a wedding planner and it's so much fun helping people create their dream weddings."
+        }
+      ],
+      "count": 3
+    },
+    {
+      "label": "emotional",
+      "evidence": [
+        {
+          "message_id": 455,
+          "conversation_id": 25,
+          "text": "I know the feeling. I have a whole bookshelf full of books that I haven't read yet."
+        },
+        {
+          "message_id": 1005,
+          "conversation_id": 58,
+          "text": "Me too! I feel like we have a lot in common."
+        },
+        {
+          "message_id": 1205,
+          "conversation_id": 69,
+          "text": "I understand the feeling. I'm a bit of a loner myself. What do you like to do for fun?"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "label": "supportive",
+      "evidence": [
+        {
+          "message_id": 629,
+          "conversation_id": 35,
+          "text": "I hope so too. In the meantime, I hope you know that you're not alone. There are plenty of people who love and support you."
+        },
+        {
+          "message_id": 4921,
+          "conversation_id": 285,
+          "text": "No problem. I'm always here for you."
+        },
+        {
+          "message_id": 7356,
+          "conversation_id": 420,
+          "text": "That's so sweet! I'm sure they're really proud of you"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "label": "curious",
+      "evidence": [
+        {
+          "message_id": 3537,
+          "conversation_id": 206,
+          "text": "No problem! So, what do you think? Do you want to go for a walk in the park sometime?"
+        },
+        {
+          "message_id": 20101,
+          "conversation_id": 1154,
+          "text": "What do you think? We could practice together and see if we have a good sound."
+        },
+        {
+          "message_id": 36516,
+          "conversation_id": 2078,
+          "text": "So, what do you think? Are you ready to take on the world?"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "label": "serious",
+      "evidence": [
+        {
+          "message_id": 229,
+          "conversation_id": 12,
+          "text": "That's important! I'm glad you make time for your family."
+        },
+        {
+          "message_id": 246,
+          "conversation_id": 13,
+          "text": "It takes time, but it's worth it. Friends are so important."
+        },
+        {
+          "message_id": 599,
+          "conversation_id": 33,
+          "text": "I think it's important to have a balance between the two, so you don't get too burned out."
+        }
+      ],
+      "count": 3
+    }
+  ],
+  "communication_style": {
+    "avg_message_length": 55.34,
+    "avg_length_category": "medium",
+    "emoji_usage": false,
+    "emoji_rate": 0.0,
+    "exclamation_rate": 0.523,
+    "question_rate": 0.2705,
+    "punctuation_style": "expressive",
+    "tone": "neutral",
+    "total_messages_analyzed": 98079,
+    "evidence_samples": [
+      {
+        "message_id": 346,
+        "conversation_id": 20,
+        "text": "Hi",
+        "length": 2
+      },
+      {
+        "message_id": 16579,
+        "conversation_id": 946,
+        "text": "You should! It's really worth it.",
+        "length": 33
+      },
+      {
+        "message_id": 113332,
+        "conversation_id": 6535,
+        "text": "I'm doing well, thanks for asking!  How about you?",
+        "length": 50
+      },
+      {
+        "message_id": 12320,
+        "conversation_id": 701,
+        "text": "We're going to a state park near my house. It's a really beautiful spot.",
+        "length": 72
+      },
+      {
+        "message_id": 142335,
+        "conversation_id": 8203,
+        "text": "Sure! Here you go:\nIngredients:\n- 1 cup all-purpose flour\n- 1/2 cup sugar\n- 1/4 cup unsweetened cocoa powder\n- 1/4 teaspoon baking powder\n- 1/4 teaspoon salt\n- 1 large egg\n- 1/4 cup milk\n- 1 tablespoon vegetable oil\n- 1 teaspoon vanilla extract\n- 1 cup finely chopped watermelon\nDirections:\n1. Prehea",
+        "length": 934
+      }
+    ]
+  },
+  "metadata": {
+    "total_messages_analyzed": 98079,
+    "extraction_method": "pattern_matching_with_evidence"
+  }
+}

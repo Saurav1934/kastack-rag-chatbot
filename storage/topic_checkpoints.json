@@ -1,0 +1,37 @@
+[
+  {
+    "topic_id": 1,
+    "conversation_id": 0,
+    "start_message": 1,
+    "end_message": 9,
+    "summary": "User 1: Hi! How are you?\nUser 2: Good, thanks for asking! How about yourself?\n...\nUser 2: No, I moved away a few years ago.  But I still visit my family there often.\nUser 1: That's great.  Do you have any favorite places to visit in Portland?"
+  },
+  {
+    "topic_id": 2,
+    "conversation_id": 0,
+    "start_message": 10,
+    "end_message": 14,
+    "summary": "User 2: Yes, I love going to Powell's Books.  It's the largest independent bookstore in the world.\nUser 1: That sounds amazing!  I've never been to Powell's Books before.  I'm definitely going to have to check it out.\n...\nUser 1: Thanks for the recommendation!  I'm sure I'll love it.\nUser 2: No problem!  I'm glad I could help."
+  },
+  {
+    "topic_id": 3,
+    "conversation_id": 1,
+    "start_message": 15,
+    "end_message": 19,
+    "summary": "User 1: Hey how are you doing?\nUser 2: Doing well, how about yourself?\n...\nUser 2: That's awesome! I'm a big fan of punk music myself, and I like to run and do yoga in my spare time.\nUser 1: Nice! I've been meaning to try yoga but I've never really had the time."
+  },
+  {
+    "topic_id": 4,
+    "conversation_id": 1,
+    "start_message": 20,
+    "end_message": 22,
+    "summary": "User 2: It's really great for stress relief and it's a great way to get in shape.\nUser 1: I'll have to try it sometime! What about your Impala?\nUser 2: It's a 1964 Impala and it's in pretty good condition, but it needs a new paint job. I'm going to start working on that this weekend."
+  },
+  {
+    "topic_id": 5,
+    "conversation_id": 1,
+    "start_message": 23,
+    "end_message": 28,
+    "summary": "User 1: That's awesome! I love classic cars.\nUser 2: Thanks! It's a lot of work, but it's worth it in the end.\n...\nUser 1: I love the freedom of being able to learn whatever I want.\nUser 2: That's definitely the best part"
+  }
+]
