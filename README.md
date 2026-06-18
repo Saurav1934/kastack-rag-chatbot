@@ -1,5 +1,10 @@
 <img width="1918" height="848" alt="image" src="https://github.com/user-attachments/assets/997bc165-1527-4c00-a03e-53a242145fea" /># Instructions to Run
 
+Live Demo
+Streamlit URL:
+
+https://kastack-rag-chatbott.streamlit.app/
+
 ## 1. Clone Repository
 
 ```bash
